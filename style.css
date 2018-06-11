@@ -1,0 +1,52 @@
+/*style.css for personal website ptoject*/
+body{
+background-color:pink;
+margin:o;
+}
+}
+h1{
+margin-top:0;
+padding: 10px;
+}
+#container{
+background-color:white;
+width:1000px;
+margin: 0 auto;
+}
+#footer{
+text-align: center;
+border-top: 1px solid black;
+padding-bottom: 1px;
+}
+
+#menu ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+	
+}
+#menu li {  display: inline;}
+#content img{
+    float: bottom;
+	margin-bottom: 10px;
+	width: 300px;
+	}
+	#content{	
+	 
+   background-image: url("mo");
+   background-color: #mo;
+
+	height: 280px;
+	}
+	#0{
+		width:800px;
+	}
+	
+	
+
+
+#manu a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
